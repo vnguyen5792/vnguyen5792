@@ -12,7 +12,7 @@
 
 💻**My skills:**💻
 - 📚Languages: C#, C++, SQL, Java, HTML/CSS, XAML
-- 🛠️Tools: .NET, WPF, Node.js, React
+- 🛠️Tools: .NET, WPF, Node.js, React, Figma
 
 🤝**Connect with me!**🤝
 - 🔗Feel free to connect and message me on LinkedIn! - https://www.linkedin.com/in/viet-nguyen-197166243/
