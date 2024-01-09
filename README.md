@@ -7,8 +7,8 @@
 
 🚀**Stuff I'm working on:**🚀
 - 🤸Personal Website: something that is unique to only me!
-- 🦋React Front End Project (haven't decided what to do yet!)
-- 🍔A Full-Stack application: I want to be able to combine my front-end skills with my back-end capabilities. This is more like a final boss⚔️
+- 🍔Personal Finances Full Stack Application: A project that I am working on with a friend! Want to easily track where your money goes? Well, that's what this is for
+- 🦋React Project: Haven't decided, but I want to create something using React to learn JavaScript!
 
 💻**My skills:**💻
 - 📚Languages: C#, C++, SQL, Java, HTML/CSS, XAML
