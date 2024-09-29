@@ -1,13 +1,13 @@
 ### 👋 Hi, I'm Viet 
 
 🌟**About me**🌟
-- 🎓I'm a 2nd year at Wichita State University studying Computer Engineering
+- 🎓I'm a 3nd year at Wichita State University studying Computer Engineering
 - ✏️I love to learn at every opportunity and hope to help others learn too!
-- 🌐Currently trying to learn web development (stuff like JS, React, Tailwind, etc.)
+- 🌐Currently trying to learn web development (stuff like JS, React, Tailwind, etc.) and Python with OpenCV
 
 🚀**Stuff I'm working on**🚀
 - 🤸Personal Website: something that is unique to only me!
-- 🍔Personal Finances Full Stack Application: A project that I am working on with a friend! Want to easily track where your money goes? Well, that's what this is for
+- 🍔Python OpenCV: an application that can track my emotions and log it
 - 🦋React Project: Haven't decided, but I want to create something using React to learn JavaScript!
 
 💻**My skills**💻
