@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Viet 
 
 🌟**About me**🌟
-- 🎓I'm a 3nd year at Wichita State University studying Computer Engineering
+- 🎓I'm a 3rd year at Wichita State University studying Computer Engineering
 - ✏️I love to learn at every opportunity and hope to help others learn too!
 - 🌐Currently trying to learn web development (stuff like JS, React, Tailwind, etc.) and Python with OpenCV
 
