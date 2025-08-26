@@ -12,7 +12,7 @@
 
 💻**My skills**💻
 - 📚Languages: C#, C++, SQL, HTML/CSS, XAML
-- 🛠️Tools: .NET, WPF, Figma, Mendix, Git, VSCode, Visual Studio
+- 🛠️Tools: .NET, WPF, Figma, Mendix, Git, VSCode, Visual Studio, TIA V18, PLC Ladder Logic
 
 🤝**Connect with me**🤝
 - 🔗Feel free to connect and message me on LinkedIn! - https://www.linkedin.com/in/viet-nguyen-197166243/
